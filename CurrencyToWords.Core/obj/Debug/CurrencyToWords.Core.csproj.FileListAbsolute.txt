@@ -1,0 +1,13 @@
+C:\POC\NumberInWords\NumberInWords.Core\bin\Debug\CurrencyToWords.Core.dll
+C:\POC\NumberInWords\NumberInWords.Core\bin\Debug\CurrencyToWords.Core.pdb
+C:\POC\NumberInWords\NumberInWords.Core\bin\Debug\log4net.dll
+C:\POC\NumberInWords\NumberInWords.Core\bin\Debug\Newtonsoft.Json.dll
+C:\POC\NumberInWords\NumberInWords.Core\bin\Debug\StackExchange.Redis.dll
+C:\POC\NumberInWords\NumberInWords.Core\bin\Debug\log4net.xml
+C:\POC\NumberInWords\NumberInWords.Core\bin\Debug\Newtonsoft.Json.xml
+C:\POC\NumberInWords\NumberInWords.Core\bin\Debug\StackExchange.Redis.xml
+C:\POC\NumberInWords\NumberInWords.Core\obj\Debug\CurrencyToWords.Core.csprojAssemblyReference.cache
+C:\POC\NumberInWords\NumberInWords.Core\obj\Debug\CurrencyToWords.Core.csproj.CoreCompileInputs.cache
+C:\POC\NumberInWords\NumberInWords.Core\obj\Debug\CurrencyToWords.Core.csproj.CopyComplete
+C:\POC\NumberInWords\NumberInWords.Core\obj\Debug\CurrencyToWords.Core.dll
+C:\POC\NumberInWords\NumberInWords.Core\obj\Debug\CurrencyToWords.Core.pdb

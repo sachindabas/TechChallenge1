@@ -1,0 +1,80 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.container {
+    width: 300px !important;
+    padding: 30px !important;
+    margin: 100px auto;
+    border: 1px solid rgba(5,5,5,.5);
+    border-radius: 6px;
+    background: rgba(8,8,8,.5);
+    color: #fff;
+}
+    .container h2 {
+        margin-top: 0;
+    }
+
+
+    .container form {
+        position: relative;
+    }
+
+    .container input[type=text],
+    .container input[type=email],
+    .container input[type=password] {
+        height: 50px;
+    }
+
+.overlay {
+    display: none;
+    left: -30px;
+    right: -30px;
+    top: -30px;
+    bottom: -30px;
+    position: absolute;
+    background: rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+.alert {
+    background:none !important;
+    padding:0 !important;
+    border: none !important;
+}
+.loader {
+    border: 16px solid #f3f3f3;
+    /* Light grey */
+    border-top: 16px solid #3498db;
+    /* Blue */
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    animation: spin 2s linear infinite;
+    position: absolute;
+    margin-left: 45%;
+    margin-top: 20%;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
