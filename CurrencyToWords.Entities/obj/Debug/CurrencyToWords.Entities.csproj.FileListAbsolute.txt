@@ -24,3 +24,16 @@ C:\POC\CurrencyToWords\CurrencyToWords.Entities\obj\Debug\CurrencyToWords.Entiti
 C:\POC\CurrencyToWords\CurrencyToWords.Entities\obj\Debug\CurrencyToWords.Entities.csproj.CopyComplete
 C:\POC\CurrencyToWords\CurrencyToWords.Entities\obj\Debug\CurrencyToWords.Entities.dll
 C:\POC\CurrencyToWords\CurrencyToWords.Entities\obj\Debug\CurrencyToWords.Entities.pdb
+C:\Users\sacdabas\Documents\GitHub\TechChallenge\CurrencyToWords.Entities\bin\Debug\CurrencyToWords.Entities.dll
+C:\Users\sacdabas\Documents\GitHub\TechChallenge\CurrencyToWords.Entities\bin\Debug\CurrencyToWords.Entities.pdb
+C:\Users\sacdabas\Documents\GitHub\TechChallenge\CurrencyToWords.Entities\bin\Debug\CurrencyToWords.Core.dll
+C:\Users\sacdabas\Documents\GitHub\TechChallenge\CurrencyToWords.Entities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sacdabas\Documents\GitHub\TechChallenge\CurrencyToWords.Entities\bin\Debug\log4net.dll
+C:\Users\sacdabas\Documents\GitHub\TechChallenge\CurrencyToWords.Entities\bin\Debug\CurrencyToWords.Core.pdb
+C:\Users\sacdabas\Documents\GitHub\TechChallenge\CurrencyToWords.Entities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sacdabas\Documents\GitHub\TechChallenge\CurrencyToWords.Entities\bin\Debug\log4net.xml
+C:\Users\sacdabas\Documents\GitHub\TechChallenge\CurrencyToWords.Entities\obj\Debug\CurrencyToWords.Entities.csprojAssemblyReference.cache
+C:\Users\sacdabas\Documents\GitHub\TechChallenge\CurrencyToWords.Entities\obj\Debug\CurrencyToWords.Entities.csproj.CoreCompileInputs.cache
+C:\Users\sacdabas\Documents\GitHub\TechChallenge\CurrencyToWords.Entities\obj\Debug\CurrencyToWords.Entities.csproj.CopyComplete
+C:\Users\sacdabas\Documents\GitHub\TechChallenge\CurrencyToWords.Entities\obj\Debug\CurrencyToWords.Entities.dll
+C:\Users\sacdabas\Documents\GitHub\TechChallenge\CurrencyToWords.Entities\obj\Debug\CurrencyToWords.Entities.pdb

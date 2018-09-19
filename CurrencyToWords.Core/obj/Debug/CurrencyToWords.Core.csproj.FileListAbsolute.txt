@@ -11,3 +11,16 @@ C:\POC\NumberInWords\NumberInWords.Core\obj\Debug\CurrencyToWords.Core.csproj.Co
 C:\POC\NumberInWords\NumberInWords.Core\obj\Debug\CurrencyToWords.Core.csproj.CopyComplete
 C:\POC\NumberInWords\NumberInWords.Core\obj\Debug\CurrencyToWords.Core.dll
 C:\POC\NumberInWords\NumberInWords.Core\obj\Debug\CurrencyToWords.Core.pdb
+C:\Users\sacdabas\Documents\GitHub\TechChallenge\CurrencyToWords.Core\bin\Debug\CurrencyToWords.Core.dll
+C:\Users\sacdabas\Documents\GitHub\TechChallenge\CurrencyToWords.Core\bin\Debug\CurrencyToWords.Core.pdb
+C:\Users\sacdabas\Documents\GitHub\TechChallenge\CurrencyToWords.Core\bin\Debug\log4net.dll
+C:\Users\sacdabas\Documents\GitHub\TechChallenge\CurrencyToWords.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sacdabas\Documents\GitHub\TechChallenge\CurrencyToWords.Core\bin\Debug\StackExchange.Redis.dll
+C:\Users\sacdabas\Documents\GitHub\TechChallenge\CurrencyToWords.Core\bin\Debug\log4net.xml
+C:\Users\sacdabas\Documents\GitHub\TechChallenge\CurrencyToWords.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sacdabas\Documents\GitHub\TechChallenge\CurrencyToWords.Core\bin\Debug\StackExchange.Redis.xml
+C:\Users\sacdabas\Documents\GitHub\TechChallenge\CurrencyToWords.Core\obj\Debug\CurrencyToWords.Core.csprojAssemblyReference.cache
+C:\Users\sacdabas\Documents\GitHub\TechChallenge\CurrencyToWords.Core\obj\Debug\CurrencyToWords.Core.csproj.CoreCompileInputs.cache
+C:\Users\sacdabas\Documents\GitHub\TechChallenge\CurrencyToWords.Core\obj\Debug\CurrencyToWords.Core.csproj.CopyComplete
+C:\Users\sacdabas\Documents\GitHub\TechChallenge\CurrencyToWords.Core\obj\Debug\CurrencyToWords.Core.dll
+C:\Users\sacdabas\Documents\GitHub\TechChallenge\CurrencyToWords.Core\obj\Debug\CurrencyToWords.Core.pdb

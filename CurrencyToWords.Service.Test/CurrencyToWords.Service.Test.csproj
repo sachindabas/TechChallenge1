@@ -64,11 +64,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="packages.config">
-      <SubType>Designer</SubType>
-    </None>
-  </ItemGroup>
-  <ItemGroup>
     <ProjectReference Include="..\CurrencyToWords.Core\CurrencyToWords.Core.csproj">
       <Project>{adbb936e-1686-4fc9-a535-373d9fcb6735}</Project>
       <Name>CurrencyToWords.Core</Name>
@@ -85,6 +80,9 @@
       <Project>{d81f53d1-9d5d-4b9f-b398-d5802f99afb7}</Project>
       <Name>CurrencyToWords.Service</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

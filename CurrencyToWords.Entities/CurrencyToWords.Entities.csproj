@@ -52,13 +52,13 @@
     <Compile Include="Response\Response.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="packages.config" />
-  </ItemGroup>
-  <ItemGroup>
     <ProjectReference Include="..\CurrencyToWords.Core\CurrencyToWords.Core.csproj">
       <Project>{adbb936e-1686-4fc9-a535-373d9fcb6735}</Project>
       <Name>CurrencyToWords.Core</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
